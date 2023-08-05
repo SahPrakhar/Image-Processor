@@ -1,4 +1,4 @@
-# Image-Processor
+# Image-Processor-App
 Description
 The Image Processing Tool is a Python-based application that allows users to apply various filters and techniques to images. Built using Python, OpenCV, Pandas, and Streamlit, this tool offers functionalities such as grayscale conversion, blurring, edge detection, sharpening, rotation, color adjustment, and thresholding.
 
